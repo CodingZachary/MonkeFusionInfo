@@ -1,14 +1,14 @@
 [
-    {
-        "name": "Grate",
-        "url": "https://github.com/The-Graze/Grate/releases/download/1.7.0/Grate.dll",
-        "path": "BepInEx/plugins",
-        "category": "Legal Mods"
-    },
-    {
-        "name": "Mono Sandbox",
-        "url": "https://raw.githubusercontent.com/NgbatzYT/Mono-Sandbox-Fixed/main/MonoSandbox.dll",
-        "path": "BepInEx/plugins",
-        "category": "Legal Mods"
-    }
+  {
+    "name": "Grate",
+    "author": "The-Graze",
+    "gitURL": "https://github.com/The-Graze/Grate/releases/download/1.7.0/Grate.dll ",
+    "installPath": "BepInEx/plugins"
+  },
+  {
+    "name": "Mono Sandbox",
+    "author": "NgbatzYT",
+    "gitURL": "https://github.com/NgbatzYT/Mono-Sandbox-Fixed/releases/download/v1.2.3/MonoSandbox.dll",
+    "installPath": "BepInEx/plugins"
+  }
 ]
