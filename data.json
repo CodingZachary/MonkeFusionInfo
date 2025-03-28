@@ -12,5 +12,12 @@
     "category": "Legal Mods",
     "gitURL": "https://github.com/NgbatzYT/Mono-Sandbox-Fixed/releases/download/v1.2.3/MonoSandbox.dll",
     "installPath": "BepInEx/plugins"
+  },
+  {
+    "name": "ii's Stupid Mod Menu",
+    "author": "iiDk-the-actual",
+    "category": "Illegal Mods",
+    "gitURL": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/5.7.1/iis_Stupid_Menu.dll",
+    "installPath": "BepInEx/plugins"
   }
 ]
