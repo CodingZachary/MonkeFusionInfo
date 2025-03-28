@@ -16,8 +16,23 @@
   {
     "name": "ii's Stupid Mod Menu",
     "author": "iiDk-the-actual",
-    "category": "Illegal Modsaa",
+    "category": "Illegal Mods",
     "gitURL": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/5.7.1/iis_Stupid_Menu.dll",
     "installPath": "BepInEx/plugins"
+  },
+  {
+    "name": "HoverBoards Everywhere",
+    "author": "ToastConcern",
+    "category": "Legal Mods",
+    "gitURL": "https://github.com/Toastconcern/HoverboardsAnywhere/releases/download/V1.0.0/HoverboardsAnywhereV1.0.0.dll",
+    "installPath": "BepInEx/plugins"
+  },
+  {
+    "name": "Gorilla Shirts",
+    "author": "developer9998",
+    "category": "Legal Mods",
+    "gitURL": "https://github.com/developer9998/GorillaShirts/releases/download/v1.1.10/GorillaShirts.dll",
+    "installPath": "BepInEx/plugins"
   }
+  
 ]
